@@ -1,12 +1,17 @@
 # MSci Reproducible Data Science (BIOL33031)
- Email: _Andrew.Stewart@manchester.ac.uk_ <br>
+
+Unit coordinator: Danna Gifford <br>
+Email: _Danna.Gifford@manchester.ac.uk_ <br>
+Twitter: _@dannagifford_ <br>
+
+Original creator: Andrew Stewart <br>
+Email: _Andrew.Stewart@manchester.ac.uk_ <br>
 Twitter: _@ajstewart_lang_ <br>
 
-Slides for my 2019/20 MSci Reproducible Data Science unit.  Click on the __'Clone or download'__ button in the top right to download a zipped version of this repository.
+Slides for the MSci Reproducible Data Science unit.  Click on the __'Clone or download'__ button in the top right to download a zipped version of this repository.
 
-Classes start __Friday November 8th__ and run until __Friday December 13th__. 
-
-The morning session is 1100-1300 and the afternoon session is 1400-1600 in Stopford PC Cluster 3.
+<!-- 2023/2024 Academic year: Classes start __TBD__ and run until __TBD__.
+The morning session is TBD and the afternoon session is TBD in TBD. -->
 
 ## The Course Material
 
@@ -30,7 +35,7 @@ And RStudio from here:
 
 https://www.rstudio.com/products/rstudio/download/#download
 
-## Running from the RStudio Cloud
+<!-- ## Running from the RStudio Cloud
 
 You can also access the workshop content and run everything using RStudio via the RStudio Cloud.  I have set up our space here:
 
@@ -38,7 +43,7 @@ https://bit.ly/3301Zd5
 
 and have put together a brief tutorial on using it here:
 
-https://youtu.be/_wfQxbNXpY4
+https://youtu.be/_wfQxbNXpY4 -->
 
 ## Online R Resources
 
@@ -54,15 +59,15 @@ This is the online interactive version of the book of the same name.  It's a gre
 
 http://r4ds.had.co.nz
 
-## Running the Scripts via Binder
+<!-- ## Running the Scripts via Binder
 
 You can run the R scripts for this unit in your browser by launching the unit in a Binder (click on the button below). Once loaded, click on the .Rproj file associated with the workshop you want to go through. That will set the directory to point to the data files.
 <br> <br> 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajstewartlang/MSci_Reproducible_Data_Science/master?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajstewartlang/MSci_Reproducible_Data_Science/master?urlpath=rstudio) -->
 
 ## The UoM R User Group
 
 To join the University of Manchester R User Group, subscribe to the mailing list https://listserv.manchester.ac.uk/cgi-bin/wa?A0=RUM or send an email to LISTSERV@listserv.manchester.ac.uk with no subject and the body SUBSCRIBE RUM Your Name.
 
 ## University of Manchester Open Research Working Group
-Sign up for our Open Science Working Group email list [here](https://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=open_research&A=1).
+Sign up for the Open Science Working Group email list [here](https://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=open_research&A=1).
